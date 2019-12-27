@@ -35,7 +35,7 @@ The app will be placed in front of the car facing the driver and would run infer
 - Android TextToSpeech
 
 ## Why Deploy to the smartphone
-The number of smartphone users as of <b>2019</b> was 3.2 billions and that number is expected to 3.8 billions by <b>2021</b> 
+The number of smartphone users as of <b>2019</b> was 3.2 billions and that number is expected to 3.8 billions by <b>2021</b> According to [Statista.com](https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/) </br>
 With a smartphone, all the drive needs is to install the android application.
 
 ## Future
