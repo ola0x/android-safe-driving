@@ -1,6 +1,6 @@
 # Android Safe Driving
 ## Problem Statement</br>
-The leading cause of <b>Accidents</b> on the road is due to drowsey driving. In the United states alone over 80,000 crashes in a year on the road was due to drowsey driving</br>
+The leading cause of <b>Accidents</b> on the road is due to drowsy driving. In the United states alone over 80,000 crashes in a year on the road was due to drowsy driving</br>
 - National Highway Traffic Safety Administration (NHTSA)</br>
 
 <b>NHTSA</b> defines distracted driving as any activity that diverts attention from driving, including talking or texting on your phone, eating and drinking, talking to people in your vehicle, fiddling with the stereo, entertainment or navigation system, anything that takes your attention away from the task of safe driving.</br>
